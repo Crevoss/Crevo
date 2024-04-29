@@ -14,7 +14,7 @@ $git clone https://github.com/Crevoss/Crevo.git
 
 $cd Crevo
 
-$python-m pip install requests bs4
+$Crevo-m pip install requests bs4
 
 $Crevo.py
 
